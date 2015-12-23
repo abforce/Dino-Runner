@@ -1,0 +1,2 @@
+include ':app', ':andEngine', ':andEnginePhysicsBox2DExtension', ':andEngineCollisionsExtension'
+include ':swarmConnect'
