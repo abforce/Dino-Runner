@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+gradle
+
+andEngine/
+andEngineCollisionsExtension/
+andEnginePhysicsBox2DExtension/
+swarmConnect/
